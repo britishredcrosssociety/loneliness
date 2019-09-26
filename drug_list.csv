@@ -1,0 +1,54 @@
+illness,medication
+depression,fluoxetine
+depression,citalopram
+depression,paroxetine
+depression,sertraline
+depression,dapoxetine
+depression,escitalopram
+depression,fluvoxamine
+depression,duloxetine
+depression,venlafaxine
+depression,mirtazapine
+depression,amitriptyline
+depression,clomipramine
+depression,imipramine
+depression,lofepramine
+depression,nortriptyline
+alzheimers,donepezil
+alzheimers,rivastigmine
+alzheimers,galantamine
+blood pressure,enalapril
+blood pressure,lisinopril
+blood pressure,perindopril
+blood pressure,ramipril
+blood pressure,candesartan
+blood pressure,irbesartan
+blood pressure,losartan
+blood pressure,valsartan
+blood pressure,olmesartan
+blood pressure,amlodipine
+blood pressure,felodipine
+blood pressure,nifedipine
+hypertension,olmesartan
+hypertension,verapamil
+hypertension,perindopril
+hypertension,losartan
+hypertension,nifedipine
+hypertension,enalapril
+hypertension,candesarta
+hypertension,amlodipine
+hypertension,lisinopril
+hypertension,irbesartan
+hypertension,felodipine
+hypertension,ramipril
+hypertension,valsartan
+hypertension,diltiazem
+diabeties,metformin
+cardiovascular disease,atorvastatin
+cardiovascular disease,fluvastatin
+cardiovascular disease,pravastatin
+cardiovascular disease,rosuvastatin
+cardiovascular disease,simvastatin
+insomnia,zopiclone
+addiction,methadone
+social anxiety,escitalopram
